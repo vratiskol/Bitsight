@@ -10,22 +10,22 @@ BitSight doesn’t just rate you based on what they find—they rate you on what
 
 A smart approach? Think of it like staging your house for a real estate agent: show off only the clean, organized rooms and keep the messy closets out of sight. In other words, strategically manage what BitSight can see, making sure they walk away impressed by your well-maintained cybersecurity posture, rather than poking around for skeletons in your digital closets.</p>
 
-## BitSight scanners: [link](https://github.com/vratiskol/Bitsight/blob/main/Bitsight_scanner_ips.txt))
+## BitSight scanners: [link](https://github.com/vratiskol/Bitsight/blob/main/Bitsight_scanner_ips.txt)
 
-45.156.128.0/22
-109.105.208.0/22    
-185.117.225.0/24
-185.180.140.0/22
-
-2a10:3c0:1::/48
-2a10:3c0:2::/48
-2a10:3c0:3::/48
-2a10:3c0:4::/48
-2a10:3c0:5::/48
-2a10:3c0:100::/48
-2a10:3c0:101::/48
-2a10:3c0:102::/48
-2a10:3c0:200::/44
+45.156.128.0/22<br>
+109.105.208.0/22<br>
+185.117.225.0/24<br>
+185.180.140.0/22<br>
+<br>
+2a10:3c0:1::/48<br>
+2a10:3c0:2::/48<br>
+2a10:3c0:3::/48<br>
+2a10:3c0:4::/48<br>
+2a10:3c0:5::/48<br>
+2a10:3c0:100::/48<br>
+2a10:3c0:101::/48<br>
+2a10:3c0:102::/48<br>
+2a10:3c0:200::/44<br>
 <br>
 Total IPv4: 3,328 IPs<br>
 Total IPv6: 24×2<sup>80</sup><br>
